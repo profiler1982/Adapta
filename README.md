@@ -4,8 +4,6 @@ Adapta
 An adaptive Gtk+ theme based on Material Design Guidelines.
 Lots of elements are forked from Flat-Plat: https://github.com/nana-4/Flat-Plat
 
-3.19.x conversion started, please see the progress in 3.19.x branch if you needed.
-
 Elements
 --------
 ![Materials](img/Materials.png)
@@ -52,7 +50,6 @@ Installation
 
 Work in Progress
 ----------------
-* Conversion to Gtk+ 3.19.9 or git master (see progress in 3.19.x branch...)
 * Unity7 desktop integration (but unity is not my thing at all...)
 
 TODO
@@ -63,6 +60,6 @@ Public License
 --------------
 * License: GPLv2
 
-Special Thanks To
---------------
+Special Thanks to
+-----------------
 Nana-4, the developer of Flat-Plat.
