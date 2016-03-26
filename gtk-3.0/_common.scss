@@ -221,8 +221,9 @@ GtkTextView { // This will get overridden by .view,
     opacity: 1.0;
     animation: spin 1s linear infinite;
     &:insensitive { opacity: 0.4; }
+    &:backdrop { opacity: 0.8; }
   }
-  &:backdrop { opacity: 0.8; }
+  &:backdrop { opacity: 0; }
 }
 
 

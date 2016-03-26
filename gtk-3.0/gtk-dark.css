@@ -234,8 +234,10 @@ GtkTextView {
     animation: spin 1s linear infinite; }
     .spinner:active:insensitive {
       opacity: 0.4; }
+    .spinner:active:backdrop {
+      opacity: 0.8; }
   .spinner:backdrop {
-    opacity: 0.8; }
+    opacity: 0; }
 
 /****************
  * Text Entries *
